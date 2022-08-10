@@ -1,0 +1,32 @@
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csprojResolveAssemblyReference.cache
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Form1.resources
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Properties.Resources.resources
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csproj.GenerateResource.Cache
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.exe.config
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.exe
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.pdb
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.exe
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.pdb
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.exe.config
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.exe
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.pdb
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csprojResolveAssemblyReference.cache
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Form1.resources
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Properties.Resources.resources
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csproj.GenerateResource.Cache
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csproj.CoreCompileInputs.cache
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.exe
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.pdb
+D:\Андрей\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Form2.resources
+Z:\C#_Itog\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Form2.resources
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.exe.config
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.exe
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\bin\Debug\JapanCrossWord_Yakovlev_k0210.pdb
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csprojAssemblyReference.cache
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Form1.resources
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Form2.resources
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.Properties.Resources.resources
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csproj.GenerateResource.cache
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.csproj.CoreCompileInputs.cache
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.exe
+D:\Andrew\Курсы\NEW\OLD 5\C#\Проект\JapanCrossWord_Yakovlev_k0210\JapanCrossWord_Yakovlev_k0210\obj\Debug\JapanCrossWord_Yakovlev_k0210.pdb

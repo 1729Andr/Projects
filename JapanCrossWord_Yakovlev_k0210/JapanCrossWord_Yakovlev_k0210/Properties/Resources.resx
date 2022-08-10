@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="stolb3" xml:space="preserve">
+    <value>0000020201010101020101020003010300040104000000090000000700000009000401040002010200000101</value>
+  </data>
+  <data name="strok2" xml:space="preserve">
+    <value>0000000000000000000000000000000202050504050502020000050906060201040102060609050</value>
+  </data>
+  <data name="stolb2" xml:space="preserve">
+    <value>0000010100000202000003030002070200030503000000130000001300000606000301030002010200020102000000050</value>
+  </data>
+  <data name="otv4" xml:space="preserve">
+    <value>0010101000001010100000000000000111111100011011111101101111010111111110011111110010111110010111111110</value>
+  </data>
+  <data name="strok4" xml:space="preserve">
+    <value>000000000000000001000005020102000205010201010704070707010101</value>
+  </data>
+  <data name="strok1" xml:space="preserve">
+    <value>000300000000000000000202010000000000000001020709070605040103</value>
+  </data>
+  <data name="otv1" xml:space="preserve">
+    <value>00010000000111000000110100000011111000000011110000011111100001111111000011111101011111110111101111110</value>
+  </data>
+  <data name="stolb1" xml:space="preserve">
+    <value>00000001000000030000020100000005000000040000000600000007000006010000070100000306</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pic.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zero.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otv2" xml:space="preserve">
+    <value>0100000000010011000000011001110000011101101111111011111011111011111111111111111111111111111111111011111101110010011100011001001100000110101100000001111100000</value>
+  </data>
+  <data name="stolb4" xml:space="preserve">
+    <value>00010101000101010000000000000007000002060002040100000008000000070001050100000008</value>
+  </data>
+  <data name="otv3" xml:space="preserve">
+    <value>00011011000100010100011100101001111100100111111101011110111111111000111111100011111111101111010111101100100110001000001000</value>
+  </data>
+  <data name="strok3" xml:space="preserve">
+    <value>000000000000000000000004040001030003010004040103080503070305080301</value>
+  </data>
+  <data name="game1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\game1.GIF;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="game2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\game2.GIF;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="game3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\game3.GIF;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="game4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\game4.GIF;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pravila" xml:space="preserve">
+    <value>1) Японский кроссворд представляет собой зашифрованный рисунок, в котором цифры слева от рядов и сверху над колонками показывают, сколько групп закрашенных клеток находится в соответствующей линии и сколько закрашенных клеток содержит каждая группа. Например, три числа - 2, 5, 9 - обозначают, что в этом ряду есть три группы, состоящие: первая - из двух, вторая - из пяти, третья - из девяти слитных закрашенных клеток.
+2) Группы разделены, по крайней мере, одной пустой клеткой.
+3) Группы не всегда начинаются от края поля, т.е. пустые клетки могут быть и по краям рядов.
+4) Так что определите, сколько пустых клеток находится между группами закрашенных клеток (маленький совет: в процессе решения отмечайте не только “найденные” вами закрашенные клетки, но и места расположения пустых клеток - это облегчит выполнение рисунка), и если все сделаете правильно, то получится картинка.</value>
+  </data>
+  <data name="control" xml:space="preserve">
+    <value>Щелчками левой кнопки мыши вы закрашиваете выделенное поле (квадратик).
+Щелчками правой кнопки мыши можно пометить пустующее поле, т.е. выводится крестик.
+Двойным щелчком мыши можно удалить и цвет, и крестик.
+Клетки с заданием изначально имеют белый цвет шрифта. По мере отгадывания кроссворда пользователь может щелчком мыши вычеркнуть цифры в разгаданных строчках и/или столбиках.</value>
+  </data>
+</root>
